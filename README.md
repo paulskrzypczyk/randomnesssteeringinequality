@@ -13,7 +13,7 @@ It has been tested on Matlab R2015a, and CVX 2.1
 
 The code comprises the following:
 
-  - [RandomnessSteeringInequality](https://github.com/paulskrzypczyk/randomnesssteeringinequality/blob/master/RandomnessSteeringInequality): 
+  - [RandomnessSteeringInequality](https://github.com/paulskrzypczyk/randomnesssteeringinequality/blob/master/RandomnessSteeringInequality.m): 
   returns the min-entropy that can be certified in a 1SDI manner from a given steering inequality violation
-  - [genExpGraph](https://github.com/paulskrzypczyk/randomnesssteeringinequality/blob/master/genExpGraph):
+  - [genExpGraph](https://github.com/paulskrzypczyk/randomnesssteeringinequality/blob/master/genExpGraph.m):
   script file which reproduces Fig. 1 from the paper. 
